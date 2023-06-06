@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4806598327",
+    "project_id": "getconnected-6a3c8",
+    "storage_bucket": "getconnected-6a3c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4806598327:android:938dae1056aacbb4123732",
+        "android_client_info": {
+          "package_name": "com.mycompany.getconnected"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYgQv18blXJEsirFyVzh_Ye3IyPRDd3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
